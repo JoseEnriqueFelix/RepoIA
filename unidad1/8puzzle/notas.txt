@@ -1,0 +1,5 @@
+nodos visitados
+
+tiempo
+
+tamaño del camino
